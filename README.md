@@ -1,5 +1,5 @@
 <h1 align="center">Olá!! Eu sou o Carlos Eduardo Sales 👋 </h1>
-<h3 align="center">Cursando Engenharia de Software</h3>
+<h3 align="center">Apaixonado por Tecnologia</h3>
 
 - 🔭 Atualmente Socio Proprietario da **Usina TI**
 
